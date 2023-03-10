@@ -47,8 +47,12 @@ Forensic
   2. [Commnad] file - get type of file
   3. [Command] binwalk - remove hidden files from files
   4. [Command] steghide - remove hidden files with known password (have to find password)
-  5. [App] Digital Invisible Ink Toolkit - remove hidden files from images
-  6. [App] Stegsolve - remove hidden files from images (need password)
-  7. [App] ImageMagick - adjust image and modify them
-  8. [App] GNOME Hex Editor - inspect and edit binary files
-  9. [App] Stegosuite - GUI app for steg
+  5. [Command] git - version control
+  6. [App] Digital Invisible Ink Toolkit - remove hidden files from images
+  7. [App] Stegsolve - remove hidden files from images (need password)
+  8. [App] ImageMagick - adjust image and modify them
+  9. [App] GNOME Hex Editor - inspect and edit binary files
+  10. [App] Stegosuite - GUI app for steg
+
+Log Analysis
+  1. Git commands
