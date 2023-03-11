@@ -59,3 +59,9 @@ Log Analysis
 
 Enumeration & Exploitation
   1. [Command] uncompile6
+
+Web Application Exploitation
+  1. Web Developper Tools
+  2. Check Javascript files 
+  3. Check cookie
+  4. Injection methods: SQL
