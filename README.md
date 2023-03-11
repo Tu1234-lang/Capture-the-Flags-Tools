@@ -65,7 +65,8 @@ Web Application Exploitation
   1. Web Developper Tools
       - Check Javascript files 
       - Check cookie
-  4. Injection methods: SQL
+  2. Injection methods: SQL
+  3. [App] Hetty: Web app security testing - proxy,GET,HEAD,POST,...
 
 Reverse Engineering
   [placeholder]
