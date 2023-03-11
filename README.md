@@ -66,7 +66,8 @@ Web Application Exploitation
       - Check Javascript files 
       - Check cookie
   2. Injection methods: SQL
-  3. [App] Hetty: Web app security testing - proxy,GET,HEAD,POST,...
+  3. Ctrl + U - checks source code
+  4. [App] Hetty - Web app security testing - proxy,GET,HEAD,POST,...
 
 Reverse Engineering
   [placeholder]
