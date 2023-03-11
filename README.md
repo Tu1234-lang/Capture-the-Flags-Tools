@@ -56,12 +56,22 @@ Forensic
 
 Log Analysis
   1. Git commands
+  2. [Command] grep - find string that matches certain inputs
 
 Enumeration & Exploitation
-  1. [Command] uncompile6
+  1. [Command] uncompile6 - uncompile python files (.pyc)
 
 Web Application Exploitation
   1. Web Developper Tools
-  2. Check Javascript files 
-  3. Check cookie
+      - Check Javascript files 
+      - Check cookie
   4. Injection methods: SQL
+
+Reverse Engineering
+  [placeholder]
+
+Binary Exploitation
+  [placeholder]
+  
+Wireless Access Exploitation
+  [placeholder]
