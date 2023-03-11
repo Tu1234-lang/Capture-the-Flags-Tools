@@ -56,3 +56,6 @@ Forensic
 
 Log Analysis
   1. Git commands
+
+Enumeration & Exploitation
+  1. [Command] uncompile6
