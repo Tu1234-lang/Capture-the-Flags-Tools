@@ -69,8 +69,9 @@ Web Application Exploitation
   3. Ctrl + U - checks source code
   4. http://jsnice.org/ - deobfuscated javascript script
   5. [App] Hetty - Web app security testing 
-    - proxy, GET ,HEAD ,POST,...
-    - input HTTP headers to site
+      - proxy, GET ,HEAD ,POST,...
+      - input HTTP headers to site
+  6. [App] BurpSuite Commmunity - Web app security testing
 
 Reverse Engineering
   [placeholder]
