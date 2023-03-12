@@ -68,7 +68,9 @@ Web Application Exploitation
   2. Injection methods: SQL
   3. Ctrl + U - checks source code
   4. http://jsnice.org/ - deobfuscated javascript script
-  5. [App] Hetty - Web app security testing - proxy,GET,HEAD,POST,...
+  5. [App] Hetty - Web app security testing 
+    - proxy, GET ,HEAD ,POST,...
+    - input HTTP headers to site
 
 Reverse Engineering
   [placeholder]
