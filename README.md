@@ -72,3 +72,8 @@ Web Application Exploitation
       - proxy, GET ,HEAD ,POST,...
       - input HTTP headers to site
   6. [App] BurpSuite Commmunity - Web app security testing
+  
+Reverse Engineering
+  1. objdump: print out the assembly code of the c program
+  2. ghidra: decomplier from human-readable code to source code
+  3. gbd: gnu debugger - see how a process is run and analyze it
