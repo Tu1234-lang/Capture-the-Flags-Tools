@@ -72,12 +72,3 @@ Web Application Exploitation
       - proxy, GET ,HEAD ,POST,...
       - input HTTP headers to site
   6. [App] BurpSuite Commmunity - Web app security testing
-
-Reverse Engineering
-  [placeholder]
-
-Binary Exploitation
-  [placeholder]
-  
-Wireless Access Exploitation
-  [placeholder]
